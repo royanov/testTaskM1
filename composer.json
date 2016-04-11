@@ -1,0 +1,11 @@
+{
+    "autoload": {
+        "classmap": [
+            "public_html/core/",
+            "public_html/application/"
+        ],
+        "files": [
+            "public_html/core/functions.php"
+        ]
+    }
+}
